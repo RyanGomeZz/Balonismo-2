@@ -39,12 +39,7 @@ public class Balao {
 
 
 
-        public void listarPassageiros() {
-            for (Pessoa passageiro : passageiros) {
-                System.out.println("Nome: " + passageiro.getNome() + ", CPF: " + passageiro.getCpf());
-            }
-        }
-    }
+
 
 
 }
